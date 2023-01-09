@@ -1,6 +1,7 @@
 
-<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/upNUOejLhdht1cdVgR/giphy.gif">
-</div>
+<img align="right" alt="pic" height="200" style="border-radius:80px;" src="https://i.ibb.co/JvzgTDr/ttmhgpz679-programmer-girl-medium-black-hair-with-her-cute-cat-9cf1ab57-9c99-4a67-a43d-5c5109925e51.png">
+
+
 
 ## Oiii eu sou a Thais Nogueira!
 
@@ -26,6 +27,9 @@ Linguaguens:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisNogueiraB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisNogueiraB&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+
+
 
 
   
