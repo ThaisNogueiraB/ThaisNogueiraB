@@ -3,7 +3,8 @@
 
 
 
-## Oiii eu sou a Thais Nogueira!
+## Oii eu sou a Thais Nogueira
+
 
 Apaixonada pela vida, em constante aprendizado e aberta para novos desafios.
  
