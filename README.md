@@ -1,5 +1,5 @@
 
-<img align="right" alt="pic" height="200" style="border-radius:80px;" src="https://i.ibb.co/JvzgTDr/ttmhgpz679-programmer-girl-medium-black-hair-with-her-cute-cat-9cf1ab57-9c99-4a67-a43d-5c5109925e51.png">
+<img align="right" alt="pic" height="200" style="border-radius:80px;" src="https://i.ibb.co/NrtTw9K/f3682f71-18db-4b30-9ccb-7fe26a0b30ea-removebg-preview.png">
 
 
 
